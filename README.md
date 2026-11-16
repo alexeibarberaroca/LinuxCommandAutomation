@@ -54,6 +54,6 @@ Publicado bajo licencia **Apache 2.0**. Puedes usarlo, modificarlo y distribuirl
 
 <p align="center">
   Hecho con 🐧 por <strong>Alexei Barberà Roca</strong><br>
-  <a href="https://www.linkedin.com/in/alexei-barbera-roca">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/alexeibarberaroca">LinkedIn</a> ·
   <a href="https://github.com/alexeibarberaroca">GitHub</a>
 </p>
